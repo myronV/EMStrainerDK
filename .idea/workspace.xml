@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d02d49e-8795-4b56-963f-a5527faa6a5b" name="Default" comment="" />
+    <list default="true" id="9d02d49e-8795-4b56-963f-a5527faa6a5b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/popup-m1.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/popup-m1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/popup-m1.js-v=4.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/popup-m1.js-v=4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/previewYouTube.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/previewYouTube.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/watch.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/watch.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +27,56 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="303" column="40" lean-forward="true" selection-start-line="303" selection-start-column="40" selection-end-line="303" selection-end-column="40" />
+            <state relative-caret-position="322">
+              <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prompt.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/prompt.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4862">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="previewYouTube.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/previewYouTube.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="2417" column="16" selection-start-line="2417" selection-start-column="16" selection-end-line="2417" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="count.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/count.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-828" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="watch.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/watch.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9568">
+              <caret line="354" lean-forward="true" selection-start-line="354" selection-end-line="354" />
             </state>
           </provider>
         </entry>
@@ -38,6 +93,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>righttop</find>
+      <find>youtube-</find>
+      <find>yout</find>
     </findStrings>
     <dirStrings>
       <dir>C:\OSPanel\domains\EMStrainer</dir>
@@ -59,6 +116,10 @@
         <option value="$PROJECT_DIR$/css/timer.css" />
         <option value="$PROJECT_DIR$/zakaz.php" />
         <option value="$PROJECT_DIR$/form-ok.php" />
+        <option value="$PROJECT_DIR$/js/watch.js" />
+        <option value="$PROJECT_DIR$/js/popup-m1.js" />
+        <option value="$PROJECT_DIR$/js/popup-m1.js-v=4.js" />
+        <option value="$PROJECT_DIR$/js/previewYouTube.js" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -90,6 +151,17 @@
             <path>
               <item name="EMStrainer" type="b2602c69:ProjectViewProjectNode" />
               <item name="EMStrainer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EMStrainer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EMStrainer" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EMStrainer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EMStrainer" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery.js" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -127,12 +199,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525268448188</updated>
-      <workItem from="1525268449583" duration="3192000" />
+      <workItem from="1525268449583" duration="3810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3192000" />
+    <option name="totallyTimeSpent" value="3810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -143,8 +215,8 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32979852" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32979852" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -166,16 +238,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="2408" column="9" lean-forward="true" selection-start-line="2408" selection-start-column="9" selection-end-line="2408" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/css.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -252,10 +314,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/count.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-828" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/watch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9568">
+          <caret line="354" lean-forward="true" selection-start-line="354" selection-end-line="354" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/popup-m1.js-v=4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="384" selection-start-line="2" selection-start-column="384" selection-end-line="2" selection-end-column="384" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/popup-m1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/prompt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4862">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/previewYouTube.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="2417" column="16" selection-start-line="2417" selection-start-column="16" selection-end-line="2417" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="303" column="40" lean-forward="true" selection-start-line="303" selection-start-column="40" selection-end-line="303" selection-end-column="40" />
+        <state relative-caret-position="322">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
         </state>
       </provider>
     </entry>

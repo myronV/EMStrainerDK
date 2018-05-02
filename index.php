@@ -10,7 +10,7 @@
 	      content="ems trainer, ems trainer отзывы, ems trainer купить, миостимулятор ems trainer, миотренажер ems trainer, тренажер ems trainer, миостимулятор ems trainer отзывы, электрический стимулятор мышц миотренажер ems trainer, ems trainer универсальный миостимулятор купить, ems trainer где купить"/>
 	<meta name="description" content="Миотренажер EMS-Trainer - прокачай свои мышцы не прикладывая усилий!"/>
 	<link rel="shortcut icon" href="/img/favicon.ico"/>
-	<link href="https://fonts.googleapis.com/css?family=Roboto:700&subset=cyrillic.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:700&subset=cyrillic" rel="stylesheet">
 	<link rel="stylesheet" href="/css/settings.css">
 	<link rel="stylesheet" href="/css/timer.css">
 	<link rel="stylesheet" href="/css/slick.css">
